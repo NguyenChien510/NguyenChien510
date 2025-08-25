@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Lê Minh Chiến</h1>
-<h3 align="center">Computer Science Undergraduate | University of Engineering and Technology, VNU</h3>
+<h3 align="center">Information Technology Undergraduate | University of Science and Technology, The University of Danang</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NguyenChien510&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
