@@ -8,9 +8,10 @@
 ---
 
 ### 🚀 About Me  
-- Experienced in **Competitive Programming** and **VR Development**  
-- Currently working on **AI and AI-driven applications**  
-- Eager to contribute effectively through **real-world projects** and impactful collaborations  
+- I am a Fullstack Web Developer with a strong passion for building scalable, efficient, and user-friendly web applications.
+- Skilled in both frontend and backend development, I enjoy turning ideas into functional products that deliver real value to users.
+- I work with modern frameworks and databases, ensuring clean architecture, responsive design, and smooth user experiences.
+- Open to continuous learning, teamwork, and contributing to projects that make a meaningful impact.
 - 📫 Reach me at **minhchienvadori@gmail.com**
 
 ### 📂 Featured Projects
