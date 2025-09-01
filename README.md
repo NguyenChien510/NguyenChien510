@@ -14,32 +14,6 @@
 - Open to continuous learning, teamwork, and contributing to projects that make a meaningful impact.
 - 📫 Reach me at **minhchienvadori@gmail.com**
 
-### 📂 Featured Projects
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="#" title="ASTRAL – ML Service">
-        <img src="https://placehold.co/640x360/png?text=ASTRAL+ML+Service" alt="ASTRAL ML Service screenshot" />
-        <h3>🚀 ASTRAL – ML Service</h3>
-      </a>
-      <p>Built the <strong>ML Service</strong> of the ASTRAL AutoML platform: scalable APIs, async training, and cloud integration.</p>
-      <sub>FastAPI · Celery · RabbitMQ · Redis · PostgreSQL · Docker · AutoGluon · PyTorch · H2O.ai · TPOT</sub><br/>
-      <sub><a href="#">Docs</a> · <a href="#">Repo</a></sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="#" title="eLab – VR Education System">
-        <img src="https://placehold.co/640x360/png?text=eLab+VR+Education" alt="eLab screenshot" />
-        <h3>🎓 eLab – VR Education System</h3>
-      </a>
-      <p>Oculus Quest 2 virtual lab: reactions, physics/molecular models, quizzes, voice tutor.</p>
-      <sub>Unity · C# · SQL · Blender · OpenAI API · Vbee API</sub><br/>
-      <sub><a href="#">Video</a> · <a href="#">Repo</a></sub>
-    </td>
-  </tr>
-</table>
-
-
 ---
 
 ### 💻 Tech Stack (curated)
