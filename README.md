@@ -12,6 +12,7 @@
 - Skilled in both frontend and backend development, I enjoy turning ideas into functional products that deliver real value to users.
 - I work with modern frameworks and databases, ensuring clean architecture, responsive design, and smooth user experiences.
 - Open to continuous learning, teamwork, and contributing to projects that make a meaningful impact.
+-  🌐 Explore my portfolio: nguyenchien510.vercel.app - Showcasing my latest projects and skills!
 
 ---
 
