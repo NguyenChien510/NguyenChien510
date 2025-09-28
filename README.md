@@ -8,10 +8,10 @@
 ---
 
 ### 🚀 About Me  
-- I am a Fullstack Web Developer with a strong passion for building scalable, efficient, and user-friendly web applications.
-- Skilled in both frontend and backend development, I enjoy turning ideas into functional products that deliver real value to users.
-- I work with modern frameworks and databases, ensuring clean architecture, responsive design, and smooth user experiences.
-- Open to continuous learning, teamwork, and contributing to projects that make a meaningful impact.
+- Fullstack Web Developer passionate about building scalable and user-friendly web apps.
+- Skilled in frontend & backend development, modern frameworks, and databases.
+- Focused on clean architecture and responsive design.
+- Eager to learn, collaborate, and contribute to impactful projects.
 -  🌐 Explore my portfolio: [nguyenchien510.vercel.app](https://nguyenchien510.vercel.app) - Showcasing my latest projects and skills!
 
 ---
