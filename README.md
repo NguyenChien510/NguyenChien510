@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nguyễn Lê Minh Chiến</h1>
-<h3 align="center">Information Technology | University of Science and Technology, The University of Danang</h3>
+<h1 align="center">Hi 👋, I'm Minh Chien</h1>
+<h3 align="center">University of Science and Technology, The University of Danang</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NguyenChien510&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -16,7 +16,7 @@
 
 ---
 
-### 💻 Tech Stack (curated)
+### 💻 Tech Stack
 
 #### 🖥️ Languages
 <p>
@@ -44,8 +44,8 @@
 #### 🗄️ Databases & Caching
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40" height="40"/>
 </p>
 
 #### 🛠️ DevOps & Tooling
