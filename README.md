@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Minh Chien</h1>
+<img width="980" height="980" alt="image" src="https://github.com/user-attachments/assets/de9d0541-7a1a-41ee-ba1b-27551b742440" /><h1 align="center">Hi 👋, I'm Minh Chien</h1>
 <h3 align="center">University of Science and Technology, The University of Danang</h3>
 
 <p align="center">
@@ -33,7 +33,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss-icons/main/dist/tailwindcss.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
 </p>
 
 #### 🧰 Backend
